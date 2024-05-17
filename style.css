@@ -1,0 +1,18 @@
+.container{
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 220px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn{
+    width: 180px;
+    background-color: red;
+   
+
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
